@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-	url: 'https://lumen.netlify.com',
+	url: 'https://wzard.github.io',
 	pathPrefix: '/',
 	title: 'The Housebuilder',
 	subtitle: 'Mostly about sounding smart to random internet strangers !',
@@ -25,7 +25,7 @@ module.exports = {
 	],
 	author: {
 		name: 'Siddharth Kanungo',
-		photo: '/profile.jpg',
+		photo: '/photo.jpg',
 		bio: 'Creating Primer. A Dialog-based intelligent tutoring system.',
 		contacts: {
 			email: 'siddharth@primerlabs.io',
