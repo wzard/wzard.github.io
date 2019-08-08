@@ -85,13 +85,6 @@
   Link: </styles-24fe52c2fbb11dbdd081.js>; rel=preload; as=script
   Link: </1-ef13394716f703e8b241.js>; rel=preload; as=script
   Link: </component---src-templates-page-template-js-19c9361dc817628b79da.js>; rel=preload; as=script
-/pages/contacts/
-  Link: </webpack-runtime-a0a7faa16413c11cf10f.js>; rel=preload; as=script
-  Link: </styles-24fe52c2fbb11dbdd081.js>; rel=preload; as=script
-  Link: </app-f9e2a65c6f97f6038588.js>; rel=preload; as=script
-  Link: </styles-24fe52c2fbb11dbdd081.js>; rel=preload; as=script
-  Link: </1-ef13394716f703e8b241.js>; rel=preload; as=script
-  Link: </component---src-templates-page-template-js-19c9361dc817628b79da.js>; rel=preload; as=script
 /posts/observing-like-a-magician/
   Link: </webpack-runtime-a0a7faa16413c11cf10f.js>; rel=preload; as=script
   Link: </styles-24fe52c2fbb11dbdd081.js>; rel=preload; as=script
@@ -100,6 +93,13 @@
   Link: </1-ef13394716f703e8b241.js>; rel=preload; as=script
   Link: </2-a487e91f34d244796d15.js>; rel=preload; as=script
   Link: </component---src-templates-post-template-js-61b5e4b03c6c5c0bf16a.js>; rel=preload; as=script
+/pages/contacts/
+  Link: </webpack-runtime-a0a7faa16413c11cf10f.js>; rel=preload; as=script
+  Link: </styles-24fe52c2fbb11dbdd081.js>; rel=preload; as=script
+  Link: </app-f9e2a65c6f97f6038588.js>; rel=preload; as=script
+  Link: </styles-24fe52c2fbb11dbdd081.js>; rel=preload; as=script
+  Link: </1-ef13394716f703e8b241.js>; rel=preload; as=script
+  Link: </component---src-templates-page-template-js-19c9361dc817628b79da.js>; rel=preload; as=script
 /tag/growth
   Link: </webpack-runtime-a0a7faa16413c11cf10f.js>; rel=preload; as=script
   Link: </styles-24fe52c2fbb11dbdd081.js>; rel=preload; as=script
