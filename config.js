@@ -29,7 +29,7 @@ module.exports = {
 		bio: 'Creating Primer. A Dialog-based intelligent tutoring system.',
 		contacts: {
 			email: 'siddharth@primerlabs.io',
-			telegram: '#',
+			telegram: 'SiddharthKanungo',
 			twitter: '_Wzard',
 			github: 'wzard',
 			rss: '#',

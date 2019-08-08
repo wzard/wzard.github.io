@@ -11,7 +11,7 @@ I am Siddharth. Right now, I am heavily-occpied into building **Primer**, which 
 
 I launched Primer Landing Page in Feb, 2019 and there has been a lot of changes and it hasn't been updated. 
 
-I am bad with deadlines and superbad when I am the one giving it to myself, but it seems that Primer will be launched by the end of July 2019. **Finally** :)
+I am bad with deadlines and superbad when I am the one giving it to myself, but it seems that Primer will be launched by the end of August 2019. **Finally** :)
 
 Some screenshots for the Primer:
 
